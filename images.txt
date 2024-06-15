@@ -1,3 +1,4 @@
 
 
 calico/cni:v3.24.5
+calico/node:v3.24.5
